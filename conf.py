@@ -25,17 +25,17 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "CSdaixie2020"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "没有正义。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
+        "name": "google",
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "baidu",
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
